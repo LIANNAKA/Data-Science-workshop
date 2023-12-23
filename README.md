@@ -1,4 +1,4 @@
-# Data-Science-workshop
+# Applications of Data Science in Aviation Field workshop
 
 # 3 Days Data-Science & Analytics Workshop 
 
